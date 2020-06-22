@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ecoleta",
+    "slug": "ecoleta",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Ecoleta Project is a project based on Rocketseat guidance"
+  }
+}

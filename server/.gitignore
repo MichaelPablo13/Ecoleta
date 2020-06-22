@@ -1,0 +1,4 @@
+node_modules
+.vscode
+uploads/*.jfif
+src/database/seeds/*.sqlite
